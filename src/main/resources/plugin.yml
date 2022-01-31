@@ -1,0 +1,9 @@
+name: Simple_AFK_Room
+version: '${project.version}'
+main: com.github.falledcan.simple_afk_room.Simple_AFK_Room
+api-version: 1.18
+authors: [ FalledCan ]
+commands:
+  afkroom:
+    usage: /afkroom
+    permission: afkroom.admin
